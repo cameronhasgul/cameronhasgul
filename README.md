@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 <!--
 **cameronhasgul/cameronhasgul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Cameron, a Mathematics & Computing student at University of Birmingham.
+
+Résumé available on request.
