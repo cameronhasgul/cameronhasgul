@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Cameron, a Mathematics & Computing student at University of Birmingham.
+I'm Cameron, a Computer Science student at University of Birmingham.
 
 Résumé available on request.
